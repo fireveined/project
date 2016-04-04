@@ -28,13 +28,13 @@
 				</li>
 				<li class="grid-item col-md-2" data-cell="3">
 					<div class="col-wrap blog-box">
-						<a href="blog.html" class="elegant-eleganticons-75">View Blog</a>
+						<a href="home" class="elegant-eleganticons-75">Home</a>
 					</div>
 				</li>
 
 				<li class="grid-item col-md-2" data-cell="4">
 					<div class="col-wrap about-box">
-						<a href="#about-page" class="elegant-eleganticons-316" data-flip-menu="true">About Us</a>
+						<a href="withdraw" class="elegant-eleganticons-316">Withdraw</a>
 					</div>
 				</li>
 				<li class="grid-item col-md-8" data-cell="5">
@@ -77,17 +77,17 @@
 				</li>
 				<li class="grid-item col-md-2" data-cell="6">
 					<div class="col-wrap works-box">
-						<a href="#portfolio-page" class="elegant-eleganticons-328" data-flip-menu="true">Accolades</a>
+						<a href="claim" class="elegant-eleganticons-328">Claim</a>
 					</div>
 				</li>
 				<li class="grid-item col-md-2" data-cell="7">
 					<div class="col-wrap resume-box">
-						<a href="#resume-page" class="elegant-eleganticons-71" data-flip-menu="true">View Skills</a>
+						<a href="faq" class="elegant-eleganticons-71">FAQ</a>
 					</div>
 				</li>
 				<li class="grid-item col-md-2" data-cell="8">
 					<div class="col-wrap contact-box">
-						<a href="#contact-page" class="elegant-eleganticons-110" data-flip-menu="true">Contact Us</a>
+						<a href="lotery" class="elegant-eleganticons-110" >Lotery</a>
 					</div>
 				</li>
 			</ul>
